@@ -1,0 +1,758 @@
+Event #: 3206
+Time:    4/30/2018 12:29:45 AM
+Players:
+    Freon 22
+    BCLAX
+--> FREEROLLIN
+    Gorillamask
+    killerrod19
+    obon
+    petrovvp213
+    amjacobs
+
+--: Forest
+
+--: Sylvan Awakening
+
+--: Sylvan Awakening
+
+------ DAR ------ 
+
+Pack 1 pick 1:
+    Blessed Light
+    Charge
+    Dub
+    Academy Journeymage
+    Befuddle
+    Syncopate
+    Blessing of Belzenlok
+    Dark Bargain
+    Ghitu Chronicler
+    Warcry Phoenix
+    Adventurous Impulse
+    Fungal Plots
+--> Sylvan Awakening
+    Garna, the Bloodflame
+    Forest
+
+--: Island
+
+--: Knight of Grace
+
+--: Eviscerate
+
+--: Eviscerate
+
+--: Eviscerate
+
+--: Eviscerate
+
+Pack 1 pick 2:
+    Knight of Grace
+    Mesa Unicorn
+    Rescue
+    Syncopate
+    Cabal Paladin
+--> Eviscerate
+    Ghitu Lavarunner
+    Arbor Armament
+    Baloth Gorger
+    Pierce the Sky
+    Pardic Wanderer
+    Thran Temporal Gateway
+    Urza's Tome
+    Island
+
+--: Plains
+
+--: Academy Drake
+
+--: Academy Drake
+
+Pack 1 pick 3:
+    Dub
+--> Academy Drake
+    Artificer's Assistant
+    Befuddle
+    Naban, Dean of Iteration
+    Chainer's Torment
+    Deathbloom Thallid
+    Divest
+    Seismic Shift
+    Arbor Armament
+    Krosan Druid
+    Wild Onslaught
+    Plains
+
+--: Island
+
+--: Rona, Disciple of Gix
+
+--: Rona, Disciple of Gix
+
+Pack 1 pick 4:
+    Serra Disciple
+    Relic Runner
+    Unwind
+    Soul Salvage
+    Ghitu Chronicler
+    Gaea's Blessing
+    Gift of Growth
+    Mammoth Spider
+    Primevals' Glorious Rebirth
+--> Rona, Disciple of Gix
+    Jousting Lance
+    Island
+
+--: Forest
+
+--: Deathbloom Thallid
+
+--: Deathbloom Thallid
+
+Pack 1 pick 5:
+    Serra Disciple
+    Opt
+    Dark Bargain
+--> Deathbloom Thallid
+    Drudge Sentinel
+    Final Parting
+    Keldon Warcaller
+    Ancient Animus
+    Primordial Wurm
+    Urza's Tome
+    Forest
+
+--: Swamp
+
+--: Relic Runner
+
+Pack 1 pick 6:
+    Healing Grace
+    Invoke the Divine
+--> Relic Runner
+    Cabal Evangel
+    Keldon Warcaller
+    Rampaging Cyclops
+    Run Amok
+    Skirk Prospector
+    Fungal Plots
+    Swamp
+
+--: Plains
+
+--: Diligent Excavator
+
+--: Relic Runner
+
+--: Relic Runner
+
+Pack 1 pick 7:
+    Diligent Excavator
+--> Relic Runner
+    Caligo Skin-Witch
+    Divest
+    Bloodstone Goblin
+    Keldon Warcaller
+    Broken Bond
+    Krosan Druid
+    Plains
+
+--: Plains
+
+--: Memorial to Genius
+
+--: Memorial to Genius
+
+Pack 1 pick 8:
+    Befuddle
+    Rescue
+    Slinn Voda, the Rising Deep
+    Ghitu Chronicler
+    Keldon Overseer
+    Rampaging Cyclops
+--> Memorial to Genius
+    Plains
+
+--: Forest
+
+--: Warcry Phoenix
+
+--: Warcry Phoenix
+
+Pack 1 pick 9:
+    Charge
+    Befuddle
+    Blessing of Belzenlok
+    Ghitu Chronicler
+--> Warcry Phoenix
+    Adventurous Impulse
+    Forest
+
+--: Island
+
+--: Pardic Wanderer
+
+--: Pardic Wanderer
+
+Pack 1 pick 10:
+    Rescue
+    Syncopate
+    Ghitu Lavarunner
+    Arbor Armament
+--> Pardic Wanderer
+    Island
+
+--: Plains
+
+--: Artificer's Assistant
+
+--: Divest
+
+--: Divest
+
+Pack 1 pick 11:
+    Artificer's Assistant
+    Befuddle
+--> Divest
+    Seismic Shift
+    Plains
+
+--: Island
+
+--: Primevals' Glorious Rebirth
+
+--: Primevals' Glorious Rebirth
+
+Pack 1 pick 12:
+    Unwind
+    Gaea's Blessing
+--> Primevals' Glorious Rebirth
+    Island
+
+--: Forest
+
+--: Final Parting
+
+Pack 1 pick 13:
+--> Final Parting
+    Keldon Warcaller
+    Forest
+
+--: Swamp
+
+--: Skirk Prospector
+
+Pack 1 pick 14:
+--> Skirk Prospector
+    Swamp
+
+--: Plains
+
+--: Plains
+
+Pack 1 pick 15:
+--> Plains
+
+--: Swamp
+
+--: Fungal Infection
+
+--: Kwende, Pride of Femeref
+
+--: Fungal Infection
+
+--: Kwende, Pride of Femeref
+
+--: Kwende, Pride of Femeref
+
+------ DAR ------ 
+
+Pack 2 pick 1:
+    Dauntless Bodyguard
+    Dub
+--> Kwende, Pride of Femeref
+    Befuddle
+    Caligo Skin-Witch
+    Fungal Infection
+    Ghitu Lavarunner
+    Arbor Armament
+    Corrosive Ooze
+    Grow from the Ashes
+    Song of Freyalise
+    Bloodtallow Candle
+    Sparring Construct
+    Clifftop Retreat
+    Swamp
+
+--: Island
+
+--: Demonlord Belzenlok
+
+Pack 2 pick 2:
+    Adamant Will
+    Academy Journeymage
+    Artificer's Assistant
+    Befuddle
+    Blink of an Eye
+    Caligo Skin-Witch
+--> Demonlord Belzenlok
+    Rat Colony
+    Keldon Raider
+    Primordial Wurm
+    Yavimaya Sapherd
+    Shield of the Realm
+    Memorial to Glory
+    Island
+
+--: Plains
+
+--: Vicious Offering
+
+--: Vicious Offering
+
+Pack 2 pick 3:
+    Charge
+    Cloudreader Sphinx
+    Cold-Water Snapper
+    Divination
+    Caligo Skin-Witch
+--> Vicious Offering
+    Yargle, Glutton of Urborg
+    Fiery Intervention
+    Gaea's Blessing
+    Gift of Growth
+    Mammoth Spider
+    Guardians of Koilos
+    Plains
+
+--: Mountain
+
+--: Cloudreader Sphinx
+
+--: Vicious Offering
+
+--: Cloudreader Sphinx
+
+--: Vicious Offering
+
+--: Vicious Offering
+
+Pack 2 pick 4:
+    Dub
+    Triumph of Gerrard
+    Cloudreader Sphinx
+    Dark Bargain
+    Rat Colony
+--> Vicious Offering
+    Keldon Overseer
+    Pierce the Sky
+    Primordial Wurm
+    Yavimaya Sapherd
+    Memorial to Folly
+    Mountain
+
+--: Forest
+
+--: Shield of the Realm
+
+--: Call the Cavalry
+
+--: Call the Cavalry
+
+Pack 2 pick 5:
+    Adamant Will
+--> Call the Cavalry
+    Excavation Elephant
+    Befuddle
+    Rat Colony
+    Fervent Strike
+    Keldon Raider
+    Gift of Growth
+    Shanna, Sisay's Legacy
+    Shield of the Realm
+    Forest
+
+--: Swamp
+
+--: Serra Disciple
+
+--: Serra Disciple
+
+Pack 2 pick 6:
+--> Serra Disciple
+    Homarid Explorer
+    Sage of Lat-Nam
+    Syncopate
+    Soul Salvage
+    Keldon Raider
+    Keldon Warcaller
+    Radiating Lightning
+    Corrosive Ooze
+    Swamp
+
+--: Island
+
+--: Deathbloom Thallid
+
+--: Deathbloom Thallid
+
+Pack 2 pick 7:
+    Relic Runner
+    Rescue
+--> Deathbloom Thallid
+    Lich's Mastery
+    Orcish Vandal
+    Gift of Growth
+    Pardic Wanderer
+    Voltaic Servant
+    Island
+
+--: Mountain
+
+--: Urza's Ruinous Blast
+
+--: Serra Disciple
+
+--: Serra Disciple
+
+Pack 2 pick 8:
+--> Serra Disciple
+    Urza's Ruinous Blast
+    Unwind
+    Rampaging Cyclops
+    Seismic Shift
+    Powerstone Shard
+    Memorial to Unity
+    Mountain
+
+--: Swamp
+
+--: Caligo Skin-Witch
+
+Pack 2 pick 9:
+    Befuddle
+--> Caligo Skin-Witch
+    Ghitu Lavarunner
+    Arbor Armament
+    Corrosive Ooze
+    Sparring Construct
+    Swamp
+
+--: Island
+
+--: Adamant Will
+
+Pack 2 pick 10:
+--> Adamant Will
+    Artificer's Assistant
+    Befuddle
+    Primordial Wurm
+    Shield of the Realm
+    Island
+
+--: Plains
+
+--: Caligo Skin-Witch
+
+--: Charge
+
+Pack 2 pick 11:
+--> Charge
+    Cold-Water Snapper
+    Caligo Skin-Witch
+    Gaea's Blessing
+    Plains
+
+--: Mountain
+
+--: Rat Colony
+
+Pack 2 pick 12:
+--> Rat Colony
+    Pierce the Sky
+    Primordial Wurm
+    Mountain
+
+--: Forest
+
+--: Shield of the Realm
+
+Pack 2 pick 13:
+    Gift of Growth
+--> Shield of the Realm
+    Forest
+
+--: Swamp
+
+--: Keldon Warcaller
+
+Pack 2 pick 14:
+--> Keldon Warcaller
+    Swamp
+
+--: Island
+
+--: Island
+
+Pack 2 pick 15:
+--> Island
+
+--: Swamp
+
+--: Mox Amber
+
+--: Knight of Malice
+
+--: Mox Amber
+
+--: Mox Amber
+
+------ DAR ------ 
+
+Pack 3 pick 1:
+    Aven Sentry
+    Syncopate
+    Drudge Sentinel
+    Knight of Malice
+    Whisper, Blood Liturgist
+    Ghitu Chronicler
+    Keldon Overseer
+    Radiating Lightning
+    Arbor Armament
+    Grow from the Ashes
+    Damping Sphere
+    Guardians of Koilos
+--> Mox Amber
+    Voltaic Servant
+    Swamp
+
+--: Swamp
+
+--: Board the Weatherlight
+
+--: Kwende, Pride of Femeref
+
+--: Kwende, Pride of Femeref
+
+Pack 3 pick 2:
+    Blessed Light
+    Board the Weatherlight
+    Charge
+    Healing Grace
+--> Kwende, Pride of Femeref
+    Opt
+    Blessing of Belzenlok
+    Radiating Lightning
+    Gift of Growth
+    Aesthir Glider
+    Howling Golem
+    Jousting Lance
+    Skittering Surveyor
+    Swamp
+
+--: Forest
+
+--: Jhoira's Familiar
+
+--: Jhoira's Familiar
+
+Pack 3 pick 3:
+    Diligent Excavator
+    Opt
+    Vodalian Arcanist
+    Cabal Evangel
+    Caligo Skin-Witch
+    Keldon Overseer
+    Rampaging Cyclops
+    Run Amok
+    Llanowar Scout
+--> Jhoira's Familiar
+    Pardic Wanderer
+    Sorcerer's Wand
+    Forest
+
+--: Forest
+
+--: Short Sword
+
+--: Short Sword
+
+Pack 3 pick 4:
+    Academy Journeymage
+    Dark Bargain
+    Drudge Sentinel
+    Fungal Infection
+    Lingering Phantom
+    Champion of the Flame
+    Ghitu Journeymage
+    Radiating Lightning
+    Arbor Armament
+    Broken Bond
+--> Short Sword
+    Forest
+
+--: Island
+
+--: Tempest Djinn
+
+--: Feral Abomination
+
+--: Feral Abomination
+
+Pack 3 pick 5:
+    Tragic Poet
+    Tempest Djinn
+    Tolarian Scholar
+--> Feral Abomination
+    Final Parting
+    Fervent Strike
+    Ghitu Lavarunner
+    Baloth Gorger
+    Yavimaya Sapherd
+    Pardic Wanderer
+    Island
+
+--: Swamp
+
+--: Serra Disciple
+
+--: Serra Disciple
+
+Pack 3 pick 6:
+    Adamant Will
+    D'Avenant Trapper
+--> Serra Disciple
+    Radiating Lightning
+    Arbor Armament
+    Gaea's Blessing
+    Primordial Wurm
+    Oath of Teferi
+    Zhalfirin Void
+    Swamp
+
+--: Swamp
+
+--: Shield of the Realm
+
+--: Arcane Flight
+
+--: Baloth Gorger
+
+--: Baloth Gorger
+
+Pack 3 pick 7:
+    Arcane Flight
+    Deep Freeze
+    Feral Abomination
+    Bloodstone Goblin
+    Keldon Overseer
+--> Baloth Gorger
+    Llanowar Envoy
+    Shield of the Realm
+    Swamp
+
+--: Plains
+
+--: Howling Golem
+
+--: Rona, Disciple of Gix
+
+--: Howling Golem
+
+--: Cloudreader Sphinx
+
+--: Cloudreader Sphinx
+
+Pack 3 pick 8:
+--> Cloudreader Sphinx
+    Opt
+    Ghitu Journeymage
+    Ghitu Lavarunner
+    Rona, Disciple of Gix
+    Howling Golem
+    Powerstone Shard
+    Plains
+
+--: Swamp
+
+--: Guardians of Koilos
+
+--: Voltaic Servant
+
+--: Guardians of Koilos
+
+--: Guardians of Koilos
+
+Pack 3 pick 9:
+    Drudge Sentinel
+    Keldon Overseer
+    Radiating Lightning
+    Arbor Armament
+--> Guardians of Koilos
+    Voltaic Servant
+    Swamp
+
+--: Swamp
+
+--: Howling Golem
+
+--: Howling Golem
+
+Pack 3 pick 10:
+    Board the Weatherlight
+    Healing Grace
+    Opt
+    Gift of Growth
+--> Howling Golem
+    Swamp
+
+--: Forest
+
+--: Keldon Overseer
+
+--: Keldon Overseer
+
+Pack 3 pick 11:
+    Diligent Excavator
+--> Keldon Overseer
+    Rampaging Cyclops
+    Run Amok
+    Forest
+
+--: Forest
+
+--: Drudge Sentinel
+
+Pack 3 pick 12:
+--> Drudge Sentinel
+    Ghitu Journeymage
+    Radiating Lightning
+    Forest
+
+--: Island
+
+--: Ghitu Lavarunner
+
+--: Ghitu Lavarunner
+
+Pack 3 pick 13:
+    Tolarian Scholar
+--> Ghitu Lavarunner
+    Island
+
+--: Swamp
+
+--: Arbor Armament
+
+Pack 3 pick 14:
+--> Arbor Armament
+    Swamp
+
+--: Swamp
+
+--: Swamp
+
+Pack 3 pick 15:
+--> Swamp
+

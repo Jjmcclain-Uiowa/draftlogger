@@ -1,0 +1,762 @@
+Event #: 3206
+Time:    4/24/2018 1:01:45 AM
+Players:
+    Valkilmer
+    Littlenich455
+    pham
+    jokeshow
+    Wretched37
+    Zempre
+    mattdam
+--> FREEROLLIN
+
+--: Mountain
+
+--: Benalish Marshal
+
+--: Wizard's Lightning
+
+------ DAR ------ 
+
+Pack 1 pick 1:
+    Aven Sentry
+    Benalish Marshal
+    Sergeant-at-Arms
+    Tragic Poet
+    Homarid Explorer
+    Rescue
+    Cabal Paladin
+    Fervent Strike
+    Fiery Intervention
+    Keldon Overseer
+--> Wizard's Lightning
+    Corrosive Ooze
+    Garna, the Bloodflame
+    Howling Golem
+    Mountain
+
+--: Island
+
+--: Triumph of Gerrard
+
+--: Gideon's Reproach
+
+--: Triumph of Gerrard
+
+--: Gideon's Reproach
+
+--: Frenzied Rage
+
+--: Gideon's Reproach
+
+--: Triumph of Gerrard
+
+--: Triumph of Gerrard
+
+Pack 1 pick 2:
+    Gideon's Reproach
+--> Triumph of Gerrard
+    Homarid Explorer
+    Slinn Voda, the Rising Deep
+    Demonic Vigor
+    Windgrace Acolyte
+    Frenzied Rage
+    Krosan Druid
+    Llanowar Elves
+    Aesthir Glider
+    Jousting Lance
+    Voltaic Servant
+    Memorial to Genius
+    Island
+
+--: Swamp
+
+--: Valduk, Keeper of the Flame
+
+--: Mesa Unicorn
+
+--: Valduk, Keeper of the Flame
+
+--: Academy Journeymage
+
+--: Valduk, Keeper of the Flame
+
+--: Valduk, Keeper of the Flame
+
+Pack 1 pick 3:
+    Adamant Will
+    Benalish Honor Guard
+    Mesa Unicorn
+    Academy Journeymage
+    Artificer's Assistant
+    Feral Abomination
+    Thallid Soothsayer
+    Windgrace Acolyte
+    Ghitu Lavarunner
+--> Valduk, Keeper of the Flame
+    Gift of Growth
+    Shield of the Realm
+    Swamp
+
+--: Plains
+
+--: Academy Journeymage
+
+--: Academy Journeymage
+
+Pack 1 pick 4:
+--> Academy Journeymage
+    Vodalian Arcanist
+    Blessing of Belzenlok
+    Drudge Sentinel
+    Lich's Mastery
+    Seismic Shift
+    Adventurous Impulse
+    Llanowar Envoy
+    Primordial Wurm
+    Shanna, Sisay's Legacy
+    Memorial to Folly
+    Plains
+
+--: Mountain
+
+--: The Antiquities War
+
+--: Ghitu Lavarunner
+
+--: Keldon Raider
+
+--: Keldon Raider
+
+Pack 1 pick 5:
+    Sergeant-at-Arms
+    The Antiquities War
+    Syncopate
+    Soul Salvage
+    Thallid Omnivore
+    Windgrace Acolyte
+    Ghitu Lavarunner
+--> Keldon Raider
+    Baloth Gorger
+    Sparring Construct
+    Mountain
+
+--: Swamp
+
+--: Hallar, the Firefletcher
+
+--: Hallar, the Firefletcher
+
+Pack 1 pick 6:
+    Adamant Will
+    Relic Runner
+    Dark Bargain
+    Drudge Sentinel
+    Llanowar Envoy
+    Llanowar Scout
+--> Hallar, the Firefletcher
+    Short Sword
+    Memorial to Glory
+    Swamp
+
+--: Swamp
+
+--: Broken Bond
+
+--: Broken Bond
+
+Pack 1 pick 7:
+    Board the Weatherlight
+    Healing Grace
+    Dark Bargain
+    Demonic Vigor
+    Adventurous Impulse
+--> Broken Bond
+    Pardic Wanderer
+    Zhalfirin Void
+    Swamp
+
+--: Island
+
+--: Krosan Druid
+
+--: Krosan Druid
+
+Pack 1 pick 8:
+    Deep Freeze
+    Fire Elemental
+    Adventurous Impulse
+--> Krosan Druid
+    Llanowar Scout
+    Guardians of Koilos
+    Island
+    Mountain
+
+--: Mountain
+
+--: Keldon Overseer
+
+--: Keldon Overseer
+
+Pack 1 pick 9:
+    Tragic Poet
+    Homarid Explorer
+    Rescue
+    Cabal Paladin
+    Fervent Strike
+--> Keldon Overseer
+    Mountain
+
+--: Island
+
+--: Krosan Druid
+
+--: Voltaic Servant
+
+--: Voltaic Servant
+
+Pack 1 pick 10:
+    Homarid Explorer
+    Demonic Vigor
+    Windgrace Acolyte
+    Krosan Druid
+--> Voltaic Servant
+    Island
+
+--: Swamp
+
+--: Shield of the Realm
+
+--: Gift of Growth
+
+--: Gift of Growth
+
+Pack 1 pick 11:
+    Artificer's Assistant
+    Feral Abomination
+--> Gift of Growth
+    Shield of the Realm
+    Swamp
+
+--: Plains
+
+--: Primordial Wurm
+
+--: Primordial Wurm
+
+Pack 1 pick 12:
+    Drudge Sentinel
+    Seismic Shift
+--> Primordial Wurm
+    Plains
+
+--: Soul Salvage
+
+--: Sparring Construct
+
+--: Windgrace Acolyte
+
+--: Windgrace Acolyte
+
+Pack 1 pick 13:
+    Soul Salvage
+--> Windgrace Acolyte
+    Sparring Construct
+
+--: Swamp
+
+--: Llanowar Scout
+
+Pack 1 pick 14:
+--> Llanowar Scout
+    Swamp
+
+--: Swamp
+
+--: Swamp
+
+Pack 1 pick 15:
+--> Swamp
+
+--: Mountain
+
+--: Helm of the Host
+
+--: Helm of the Host
+
+------ DAR ------ 
+
+Pack 2 pick 1:
+    Dub
+    Tragic Poet
+    Cold-Water Snapper
+    Opt
+    Cabal Evangel
+    Thallid Soothsayer
+    Ghitu Lavarunner
+    Saproling Migration
+    Shanna, Sisay's Legacy
+    Damping Sphere
+--> Helm of the Host
+    Pardic Wanderer
+    Short Sword
+    Voltaic Servant
+    Mountain
+
+--: Mountain
+
+--: Ancient Animus
+
+--: Ancient Animus
+
+Pack 2 pick 2:
+    Benalish Honor Guard
+    Artificer's Assistant
+    Cold-Water Snapper
+    Opt
+    Tetsuko Umezawa, Fugitive
+    Keldon Raider
+    Keldon Warcaller
+    Orcish Vandal
+--> Ancient Animus
+    Llanowar Envoy
+    Primevals' Glorious Rebirth
+    Raff Capashen, Ship's Mage
+    Navigator's Compass
+    Mountain
+
+--: Plains
+
+--: Skittering Surveyor
+
+--: Skittering Surveyor
+
+Pack 2 pick 3:
+    Call the Cavalry
+    D'Avenant Trapper
+    Cloudreader Sphinx
+    Curator's Ward
+    Cabal Paladin
+    Soul Salvage
+    Ghitu Lavarunner
+    Skirk Prospector
+    Krosan Druid
+    Nature's Spiral
+    Bloodtallow Candle
+--> Skittering Surveyor
+    Plains
+
+--: Island
+
+--: Tiana, Ship's Caretaker
+
+--: Tiana, Ship's Caretaker
+
+Pack 2 pick 4:
+    Benalish Honor Guard
+    Invoke the Divine
+    Cold-Water Snapper
+    Wizard's Retort
+    Cabal Evangel
+    Gift of Growth
+    Llanowar Scout
+--> Tiana, Ship's Caretaker
+    Navigator's Compass
+    Pardic Wanderer
+    Sulfur Falls
+    Island
+
+--: Mountain
+
+--: Fiery Intervention
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 2 pick 5:
+    Knight of New Benalia
+--> Pegasus Courser
+    Sergeant-at-Arms
+    Unwind
+    Chainer's Torment
+    Soul Salvage
+    Fiery Intervention
+    Ghitu Journeymage
+    Arbor Armament
+    Guardians of Koilos
+    Mountain
+
+--: Plains
+
+--: Dub
+
+--: Dub
+
+Pack 2 pick 6:
+--> Dub
+    Healing Grace
+    Befuddle
+    Cold-Water Snapper
+    Relic Runner
+    Deathbloom Thallid
+    Keldon Overseer
+    Kamahl's Druidic Vow
+    Sparring Construct
+    Plains
+
+--: Swamp
+
+--: The Flame of Keld
+
+--: Fire Elemental
+
+--: The Flame of Keld
+
+--: The Flame of Keld
+
+Pack 2 pick 7:
+    Rescue
+    Weight of Memory
+    Fire Elemental
+--> The Flame of Keld
+    Seismic Shift
+    Warlord's Fury
+    Llanowar Scout
+    Powerstone Shard
+    Swamp
+
+--: Swamp
+
+--: Healing Grace
+
+--: Healing Grace
+
+Pack 2 pick 8:
+--> Healing Grace
+    Sage of Lat-Nam
+    Drudge Sentinel
+    Thallid Omnivore
+    Seismic Shift
+    Adventurous Impulse
+    Powerstone Shard
+    Swamp
+
+--: Mountain
+
+--: Dub
+
+--: Dub
+
+Pack 2 pick 9:
+--> Dub
+    Tragic Poet
+    Cabal Evangel
+    Ghitu Lavarunner
+    Damping Sphere
+    Voltaic Servant
+    Mountain
+
+--: Mountain
+
+--: Orcish Vandal
+
+--: Orcish Vandal
+
+Pack 2 pick 10:
+    Artificer's Assistant
+    Cold-Water Snapper
+--> Orcish Vandal
+    Llanowar Envoy
+    Primevals' Glorious Rebirth
+    Mountain
+
+--: Plains
+
+--: Krosan Druid
+
+--: Krosan Druid
+
+Pack 2 pick 11:
+    Cabal Paladin
+    Soul Salvage
+--> Krosan Druid
+    Nature's Spiral
+    Plains
+
+--: Island
+
+--: Benalish Honor Guard
+
+Pack 2 pick 12:
+--> Benalish Honor Guard
+    Cold-Water Snapper
+    Pardic Wanderer
+    Island
+
+--: Mountain
+
+--: Guardians of Koilos
+
+Pack 2 pick 13:
+    Soul Salvage
+--> Guardians of Koilos
+    Mountain
+
+--: Plains
+
+--: Sparring Construct
+
+--: Sparring Construct
+
+Pack 2 pick 14:
+--> Sparring Construct
+    Plains
+
+--: Swamp
+
+--: Swamp
+
+Pack 2 pick 15:
+--> Swamp
+
+--: Island
+
+--: Baird, Steward of Argive
+
+--: Baird, Steward of Argive
+
+------ DAR ------ 
+
+Pack 3 pick 1:
+--> Baird, Steward of Argive
+    Serra Disciple
+    Cold-Water Snapper
+    Cast Down
+    Rat Colony
+    Run Amok
+    Llanowar Scout
+    The Mending of Dominaria
+    Song of Freyalise
+    Aesthir Glider
+    Bloodtallow Candle
+    Powerstone Shard
+    Sparring Construct
+    Voltaic Servant
+    Island
+
+--: Plains
+
+--: Skizzik
+
+--: Skizzik
+
+Pack 3 pick 2:
+    Blessed Light
+    D'Avenant Trapper
+    Pegasus Courser
+    Tragic Poet
+    Academy Drake
+    Drudge Sentinel
+    Seismic Shift
+--> Skizzik
+    Warcry Phoenix
+    Adventurous Impulse
+    Arbor Armament
+    Raff Capashen, Ship's Mage
+    Guardians of Koilos
+    Plains
+
+--: Island
+
+--: Blessed Light
+
+--: Blessed Light
+
+Pack 3 pick 3:
+--> Blessed Light
+    Sergeant-at-Arms
+    Cloudreader Sphinx
+    Relic Runner
+    Vodalian Arcanist
+    Dark Bargain
+    Thallid Soothsayer
+    Seismic Shift
+    Ancient Animus
+    Pierce the Sky
+    Damping Sphere
+    Pardic Wanderer
+    Island
+
+--: Island
+
+--: Triumph of Gerrard
+
+--: Pardic Wanderer
+
+--: Pardic Wanderer
+
+Pack 3 pick 4:
+    Triumph of Gerrard
+    Naban, Dean of Iteration
+    Tolarian Scholar
+    Dark Bargain
+    Baloth Gorger
+    Broken Bond
+    Gift of Growth
+    Spore Swarm
+    Navigator's Compass
+--> Pardic Wanderer
+    Voltaic Servant
+    Island
+
+--: Island
+
+--: Baird, Steward of Argive
+
+--: Gideon's Reproach
+
+--: Gideon's Reproach
+
+Pack 3 pick 5:
+    Baird, Steward of Argive
+--> Gideon's Reproach
+    Divination
+    Dark Bargain
+    Seismic Shift
+    Warlord's Fury
+    Corrosive Ooze
+    Gaea's Protector
+    Guardians of Koilos
+    Memorial to War
+    Island
+
+--: Plains
+
+--: Mesa Unicorn
+
+--: Mesa Unicorn
+
+Pack 3 pick 6:
+--> Mesa Unicorn
+    Rescue
+    Syncopate
+    Tolarian Scholar
+    Blessing of Belzenlok
+    Soul Salvage
+    Mammoth Spider
+    Sorcerer's Wand
+    Memorial to Genius
+    Plains
+
+--: Plains
+
+--: Keldon Raider
+
+--: Keldon Raider
+
+Pack 3 pick 7:
+    Sergeant-at-Arms
+    Rescue
+    Thallid Omnivore
+    Fire Elemental
+--> Keldon Raider
+    Fungal Plots
+    Rona, Disciple of Gix
+    Guardians of Koilos
+    Plains
+
+--: Island
+
+--: Firefist Adept
+
+--: Firefist Adept
+
+Pack 3 pick 8:
+    Excavation Elephant
+    Cabal Evangel
+--> Firefist Adept
+    Adventurous Impulse
+    Primordial Wurm
+    Navigator's Compass
+    Voltaic Servant
+    Island
+
+--: Island
+
+--: Serra Disciple
+
+--: Serra Disciple
+
+Pack 3 pick 9:
+--> Serra Disciple
+    Rat Colony
+    Llanowar Scout
+    Bloodtallow Candle
+    Powerstone Shard
+    Sparring Construct
+    Island
+
+--: Plains
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 3 pick 10:
+--> Pegasus Courser
+    Tragic Poet
+    Seismic Shift
+    Adventurous Impulse
+    Arbor Armament
+    Plains
+
+--: Island
+
+--: Seismic Shift
+
+--: Seismic Shift
+
+Pack 3 pick 11:
+    Relic Runner
+    Vodalian Arcanist
+    Thallid Soothsayer
+--> Seismic Shift
+    Island
+
+--: Island
+
+--: Navigator's Compass
+
+Pack 3 pick 12:
+    Tolarian Scholar
+    Broken Bond
+--> Navigator's Compass
+    Island
+
+--: Island
+
+--: Memorial to War
+
+--: Memorial to War
+
+Pack 3 pick 13:
+    Seismic Shift
+--> Memorial to War
+    Island
+
+--: Plains
+
+--: Tolarian Scholar
+
+Pack 3 pick 14:
+--> Tolarian Scholar
+    Plains
+
+--: Plains
+
+--: Plains
+
+Pack 3 pick 15:
+--> Plains
+

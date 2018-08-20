@@ -1,0 +1,740 @@
+Event #: 3206
+Time:    4/27/2018 12:48:50 AM
+Players:
+--> FREEROLLIN
+    jpwc
+    greffex
+    MyUserNameWasTaken
+    Bigval777
+    siumai
+    Halcyonkid
+    solarstellar
+
+--: Forest
+
+--: Song of Freyalise
+
+--: Untamed Kavu
+
+--: Untamed Kavu
+
+------ DAR ------ 
+
+Pack 1 pick 1:
+    Call the Cavalry
+    Knight of New Benalia
+    Cold-Water Snapper
+    Drudge Sentinel
+    Ghitu Chronicler
+    Run Amok
+    Ancient Animus
+    Pierce the Sky
+    Song of Freyalise
+--> Untamed Kavu
+    Jodah, Archmage Eternal
+    Damping Sphere
+    Navigator's Compass
+    Powerstone Shard
+    Forest
+
+--: Swamp
+
+--: Time of Ice
+
+--: Time of Ice
+
+Pack 1 pick 2:
+    Blessed Light
+    Call the Cavalry
+    Dub
+    Tragic Poet
+    Blink of an Eye
+--> Time of Ice
+    Blessing of Belzenlok
+    Stronghold Confessor
+    Thallid Soothsayer
+    Frenzied Rage
+    Arbor Armament
+    Hallar, the Firefletcher
+    Short Sword
+    Swamp
+
+--: Mountain
+
+--: Vicious Offering
+
+--: Vicious Offering
+
+Pack 1 pick 3:
+    Gideon's Reproach
+    Tragic Poet
+    Syncopate
+    Tetsuko Umezawa, Fugitive
+    Cabal Evangel
+--> Vicious Offering
+    Firefist Adept
+    Seismic Shift
+    Adventurous Impulse
+    Arbor Armament
+    Damping Sphere
+    Guardians of Koilos
+    Mountain
+
+--: Plains
+
+--: Zhalfirin Void
+
+--: Academy Drake
+
+--: Academy Drake
+
+Pack 1 pick 4:
+    Charge
+--> Academy Drake
+    Divination
+    Chainer's Torment
+    Rat Colony
+    Windgrace Acolyte
+    Keldon Overseer
+    Grow from the Ashes
+    Llanowar Scout
+    Aesthir Glider
+    Zhalfirin Void
+    Plains
+
+--: Island
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 1 pick 5:
+    Dub
+--> Pegasus Courser
+    Vodalian Arcanist
+    Dark Bargain
+    Rat Colony
+    Stronghold Confessor
+    Keldon Raider
+    Arbor Armament
+    Damping Sphere
+    Powerstone Shard
+    Island
+
+--: Mountain
+
+--: Serra Disciple
+
+--: Serra Disciple
+
+Pack 1 pick 6:
+    Knight of New Benalia
+--> Serra Disciple
+    Cold-Water Snapper
+    Lingering Phantom
+    Rat Colony
+    Ghitu Chronicler
+    Warlord's Fury
+    Gaea's Blessing
+    Gift of Growth
+    Mountain
+
+--: Swamp
+
+--: Sergeant-at-Arms
+
+--: Sergeant-at-Arms
+
+Pack 1 pick 7:
+    Healing Grace
+    Invoke the Divine
+--> Sergeant-at-Arms
+    Homarid Explorer
+    Windgrace Acolyte
+    Gift of Growth
+    Pardic Wanderer
+    Sorcerer's Wand
+    Swamp
+
+--: Forest
+
+--: Adamant Will
+
+--: Adamant Will
+
+Pack 1 pick 8:
+--> Adamant Will
+    Dub
+    Cold-Water Snapper
+    Unwind
+    Drudge Sentinel
+    Navigator's Compass
+    Memorial to Folly
+    Forest
+
+--: Forest
+
+--: Cold-Water Snapper
+
+--: Cold-Water Snapper
+
+Pack 1 pick 9:
+--> Cold-Water Snapper
+    Drudge Sentinel
+    Ghitu Chronicler
+    Run Amok
+    Damping Sphere
+    Navigator's Compass
+    Forest
+
+--: Swamp
+
+--: Short Sword
+
+--: Short Sword
+
+Pack 1 pick 10:
+    Tragic Poet
+    Blessing of Belzenlok
+    Stronghold Confessor
+    Frenzied Rage
+--> Short Sword
+    Swamp
+
+--: Mountain
+
+--: Damping Sphere
+
+Pack 1 pick 11:
+    Tragic Poet
+    Cabal Evangel
+    Seismic Shift
+--> Damping Sphere
+    Mountain
+
+--: Plains
+
+--: Zhalfirin Void
+
+--: Windgrace Acolyte
+
+--: Windgrace Acolyte
+
+Pack 1 pick 12:
+    Rat Colony
+--> Windgrace Acolyte
+    Zhalfirin Void
+    Plains
+
+--: Island
+
+--: Vodalian Arcanist
+
+--: Dark Bargain
+
+--: Vodalian Arcanist
+
+Pack 1 pick 13:
+--> Vodalian Arcanist
+    Dark Bargain
+    Island
+
+--: Mountain
+
+--: Gaea's Blessing
+
+Pack 1 pick 14:
+--> Gaea's Blessing
+    Mountain
+
+--: Swamp
+
+--: Swamp
+
+Pack 1 pick 15:
+--> Swamp
+
+--: Forest
+
+--: Arcane Flight
+
+--: Arcane Flight
+
+------ DAR ------ 
+
+Pack 2 pick 1:
+    Invoke the Divine
+--> Arcane Flight
+    Dark Bargain
+    Deathbloom Thallid
+    Rat Colony
+    Fervent Strike
+    Warlord's Fury
+    Elfhame Druid
+    Yavimaya Sapherd
+    Adeliz, the Cinder Wind
+    Aesthir Glider
+    Skittering Surveyor
+    Urza's Tome
+    Woodland Cemetery
+    Forest
+
+--: Island
+
+--: Mesa Unicorn
+
+--: Mesa Unicorn
+
+Pack 2 pick 2:
+--> Mesa Unicorn
+    Deep Freeze
+    Tetsuko Umezawa, Fugitive
+    Tolarian Scholar
+    Dread Shade
+    Rat Colony
+    The Flame of Keld
+    Keldon Raider
+    Broken Bond
+    Elfhame Druid
+    Navigator's Compass
+    Pardic Wanderer
+    Voltaic Servant
+    Island
+
+--: Swamp
+
+--: Cloudreader Sphinx
+
+--: Cloudreader Sphinx
+
+--: Cloudreader Sphinx
+
+Pack 2 pick 3:
+    Adamant Will
+    Mesa Unicorn
+--> Cloudreader Sphinx
+    Syncopate
+    Cabal Evangel
+    Deathbloom Thallid
+    Rat Colony
+    Run Amok
+    Warcry Phoenix
+    Pierce the Sky
+    Jousting Lance
+    Memorial to Folly
+    Swamp
+
+--: Plains
+
+--: Mesa Unicorn
+
+--: Mesa Unicorn
+
+Pack 2 pick 4:
+--> Mesa Unicorn
+    Befuddle
+    Deep Freeze
+    Dark Bargain
+    Fungal Infection
+    Rat Colony
+    Fiery Intervention
+    Goblin Chainwhirler
+    Gift of Growth
+    Shield of the Realm
+    Sparring Construct
+    Plains
+
+--: Mountain
+
+--: Blink of an Eye
+
+--: Blink of an Eye
+
+Pack 2 pick 5:
+    Mesa Unicorn
+--> Blink of an Eye
+    Relic Runner
+    Fungal Infection
+    Goblin Barrage
+    Seismic Shift
+    Broken Bond
+    Llanowar Envoy
+    Jhoira's Familiar
+    Short Sword
+    Mountain
+
+--: Mountain
+
+--: Charge
+
+--: Charge
+
+Pack 2 pick 6:
+--> Charge
+    Rescue
+    Dark Bargain
+    Final Parting
+    Fervent Strike
+    Ghitu Chronicler
+    Keldon Overseer
+    Warlord's Fury
+    Krosan Druid
+    Mountain
+
+--: Mountain
+
+--: Oath of Teferi
+
+--: Artificer's Assistant
+
+--: Befuddle
+
+Pack 2 pick 7:
+    Artificer's Assistant
+--> Befuddle
+    Stronghold Confessor
+    Bloodstone Goblin
+    Firefist Adept
+    Gift of Growth
+    Pierce the Sky
+    Oath of Teferi
+    Mountain
+
+--: Plains
+
+--: Excavation Elephant
+
+--: Tolarian Scholar
+
+--: Tolarian Scholar
+
+Pack 2 pick 8:
+    Excavation Elephant
+--> Tolarian Scholar
+    Cabal Paladin
+    Fire Elemental
+    Grow from the Ashes
+    Yavimaya Sapherd
+    Navigator's Compass
+    Plains
+
+--: Forest
+
+--: Adeliz, the Cinder Wind
+
+--: Invoke the Divine
+
+--: Invoke the Divine
+
+Pack 2 pick 9:
+--> Invoke the Divine
+    Dark Bargain
+    Deathbloom Thallid
+    Fervent Strike
+    Warlord's Fury
+    Adeliz, the Cinder Wind
+    Forest
+
+--: Island
+
+--: Pardic Wanderer
+
+--: Voltaic Servant
+
+--: Voltaic Servant
+
+Pack 2 pick 10:
+    Tolarian Scholar
+    The Flame of Keld
+    Navigator's Compass
+    Pardic Wanderer
+--> Voltaic Servant
+    Island
+
+--: Swamp
+
+--: Adamant Will
+
+--: Adamant Will
+
+Pack 2 pick 11:
+--> Adamant Will
+    Cabal Evangel
+    Run Amok
+    Warcry Phoenix
+    Swamp
+
+--: Plains
+
+--: Shield of the Realm
+
+--: Shield of the Realm
+
+Pack 2 pick 12:
+    Gift of Growth
+--> Shield of the Realm
+    Sparring Construct
+    Plains
+
+--: Mountain
+
+--: Broken Bond
+
+Pack 2 pick 13:
+    Seismic Shift
+--> Broken Bond
+    Mountain
+
+--: Mountain
+
+--: Warlord's Fury
+
+Pack 2 pick 14:
+--> Warlord's Fury
+    Mountain
+
+--: Firefist Adept
+
+--: Firefist Adept
+
+Pack 2 pick 15:
+--> Firefist Adept
+
+--: Plains
+
+--: Aven Sentry
+
+--: Aven Sentry
+
+------ DAR ------ 
+
+Pack 3 pick 1:
+--> Aven Sentry
+    Homarid Explorer
+    Rescue
+    Caligo Skin-Witch
+    Windgrace Acolyte
+    The Flame of Keld
+    Ghitu Lavarunner
+    Keldon Overseer
+    Shivan Fire
+    Arbor Armament
+    Arvad the Cursed
+    Jhoira's Familiar
+    Short Sword
+    Cabal Stronghold
+    Plains
+
+--: Plains
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 3 pick 2:
+    Charge
+--> Pegasus Courser
+    Triumph of Gerrard
+    Homarid Explorer
+    Unwind
+    Wizard's Retort
+    Windgrace Acolyte
+    Keldon Overseer
+    Grow from the Ashes
+    Pierce the Sky
+    Slimefoot, the Stowaway
+    Bloodtallow Candle
+    Juggernaut
+    Plains
+
+--: Forest
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 3 pick 3:
+--> Pegasus Courser
+    Sergeant-at-Arms
+    Diligent Excavator
+    Homarid Explorer
+    Cabal Paladin
+    Demonic Vigor
+    Divest
+    Frenzied Rage
+    Keldon Raider
+    Elfhame Druid
+    Llanowar Elves
+    Pardic Wanderer
+    Forest
+
+--: Plains
+
+--: Sergeant-at-Arms
+
+--: Cold-Water Snapper
+
+--: Cold-Water Snapper
+
+Pack 3 pick 4:
+    Sergeant-at-Arms
+    Befuddle
+--> Cold-Water Snapper
+    Opt
+    Demonic Vigor
+    Rampaging Cyclops
+    Arbor Armament
+    Pierce the Sky
+    Tiana, Ship's Caretaker
+    Bloodtallow Candle
+    Guardians of Koilos
+    Plains
+
+--: Swamp
+
+--: Short Sword
+
+--: Short Sword
+
+Pack 3 pick 5:
+    Pegasus Courser
+    Tragic Poet
+    Tolarian Scholar
+    Cabal Paladin
+    Kazarov, Sengir Pureblood
+    Fiery Intervention
+    Keldon Raider
+    Seismic Shift
+    Adventurous Impulse
+--> Short Sword
+    Swamp
+
+--: Forest
+
+--: Sergeant-at-Arms
+
+--: Sergeant-at-Arms
+
+Pack 3 pick 6:
+    Invoke the Divine
+--> Sergeant-at-Arms
+    Cabal Evangel
+    Keldon Warcaller
+    Seismic Shift
+    Warcry Phoenix
+    Llanowar Envoy
+    Guardians of Koilos
+    Skittering Surveyor
+    Forest
+
+--: Mountain
+
+--: Tiana, Ship's Caretaker
+
+--: Tiana, Ship's Caretaker
+
+Pack 3 pick 7:
+    Tragic Poet
+    Sage of Lat-Nam
+    Drudge Sentinel
+    Bloodstone Goblin
+    Frenzied Rage
+    Adventurous Impulse
+    Arbor Armament
+--> Tiana, Ship's Caretaker
+    Mountain
+
+--: Island
+
+--: Relic Runner
+
+--: Relic Runner
+
+Pack 3 pick 8:
+--> Relic Runner
+    Drudge Sentinel
+    Lich's Mastery
+    Yargle, Glutton of Urborg
+    Keldon Overseer
+    Howling Golem
+    Short Sword
+    Island
+
+--: Plains
+
+--: Rescue
+
+--: The Flame of Keld
+
+--: Keldon Overseer
+
+--: Keldon Overseer
+
+Pack 3 pick 9:
+    Rescue
+    Caligo Skin-Witch
+    Windgrace Acolyte
+    The Flame of Keld
+    Ghitu Lavarunner
+--> Keldon Overseer
+    Plains
+
+--: Plains
+
+--: Homarid Explorer
+
+--: Unwind
+
+--: Unwind
+
+Pack 3 pick 10:
+    Homarid Explorer
+--> Unwind
+    Windgrace Acolyte
+    Grow from the Ashes
+    Pierce the Sky
+    Plains
+
+--: Forest
+
+--: Homarid Explorer
+
+Pack 3 pick 11:
+--> Homarid Explorer
+    Demonic Vigor
+    Divest
+    Frenzied Rage
+    Forest
+
+--: Plains
+
+--: Befuddle
+
+Pack 3 pick 12:
+--> Befuddle
+    Demonic Vigor
+    Rampaging Cyclops
+    Plains
+
+--: Swamp
+
+--: Fiery Intervention
+
+Pack 3 pick 13:
+--> Fiery Intervention
+    Seismic Shift
+    Swamp
+
+--: Forest
+
+--: Seismic Shift
+
+Pack 3 pick 14:
+--> Seismic Shift
+    Forest
+
+--: Mountain
+
+Pack 3 pick 15:
+--> Mountain
+

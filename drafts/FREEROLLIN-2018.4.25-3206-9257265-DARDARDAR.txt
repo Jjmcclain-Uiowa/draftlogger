@@ -1,0 +1,746 @@
+Event #: 3206
+Time:    4/25/2018 1:25:11 AM
+Players:
+    smokiermatthias01
+    neonbootyshorts
+    Danny_Bambino
+    Bakatar
+    FishTure
+    FourLhurgoyfs
+    AlexLangevin
+--> FREEROLLIN
+
+--: Mountain
+
+--: Siege-Gang Commander
+
+--: Siege-Gang Commander
+
+------ DAR ------ 
+
+Pack 1 pick 1:
+    Adamant Will
+    Sergeant-at-Arms
+    Divination
+    Homarid Explorer
+    Fungal Infection
+    Urgoros, the Empty One
+    Ghitu Chronicler
+--> Siege-Gang Commander
+    Warlord's Fury
+    Broken Bond
+    Llanowar Scout
+    Bloodtallow Candle
+    Icy Manipulator
+    Memorial to Glory
+    Mountain
+
+--: Swamp
+
+--: Keldon Warcaller
+
+--: Arcane Flight
+
+--: Arcane Flight
+
+Pack 1 pick 2:
+    Excavation Elephant
+--> Arcane Flight
+    Befuddle
+    Slinn Voda, the Rising Deep
+    Dark Bargain
+    Demonic Vigor
+    Lich's Mastery
+    Soul Salvage
+    Keldon Warcaller
+    Run Amok
+    Corrosive Ooze
+    Guardians of Koilos
+    Shield of the Realm
+    Swamp
+
+--: Forest
+
+--: Blessed Light
+
+--: Blessed Light
+
+Pack 1 pick 3:
+--> Blessed Light
+    Dub
+    Invoke the Divine
+    Divination
+    Homarid Explorer
+    Windgrace Acolyte
+    Goblin Warchief
+    Radiating Lightning
+    Seismic Shift
+    Squee, the Immortal
+    Ancient Animus
+    Gaea's Blessing
+    Forest
+
+--: Mountain
+
+--: Blessed Light
+
+--: Blessed Light
+
+Pack 1 pick 4:
+--> Blessed Light
+    Healing Grace
+    Arcane Flight
+    Relic Runner
+    Syncopate
+    Thallid Omnivore
+    Keldon Overseer
+    Skirk Prospector
+    Llanowar Scout
+    Primordial Wurm
+    Song of Freyalise
+    Mountain
+
+--: Island
+
+--: Aven Sentry
+
+--: Aven Sentry
+
+Pack 1 pick 5:
+--> Aven Sentry
+    Charge
+    Deep Freeze
+    Cabal Paladin
+    Run Amok
+    Skirk Prospector
+    Krosan Druid
+    Llanowar Scout
+    Thran Temporal Gateway
+    Voltaic Servant
+    Island
+
+--: Island
+
+--: Academy Journeymage
+
+--: Academy Journeymage
+
+Pack 1 pick 6:
+    Dauntless Bodyguard
+    Dub
+    Invoke the Divine
+--> Academy Journeymage
+    Thallid Omnivore
+    Seismic Shift
+    Primordial Wurm
+    Short Sword
+    Voltaic Servant
+    Island
+
+--: Swamp
+
+--: Voltaic Servant
+
+--: Wild Onslaught
+
+--: Wild Onslaught
+
+Pack 1 pick 7:
+    Tragic Poet
+    Befuddle
+    Rescue
+    Fire Elemental
+    Corrosive Ooze
+    Pierce the Sky
+--> Wild Onslaught
+    Voltaic Servant
+    Swamp
+
+--: Forest
+
+--: Bloodstone Goblin
+
+--: Bloodstone Goblin
+
+Pack 1 pick 8:
+    Befuddle
+    Syncopate
+--> Bloodstone Goblin
+    Frenzied Rage
+    Run Amok
+    Gaea's Blessing
+    Pardic Wanderer
+    Forest
+
+--: Mountain
+
+--: Adamant Will
+
+--: Adamant Will
+
+Pack 1 pick 9:
+--> Adamant Will
+    Divination
+    Homarid Explorer
+    Warlord's Fury
+    Broken Bond
+    Llanowar Scout
+    Mountain
+
+--: Swamp
+
+--: Guardians of Koilos
+
+--: Guardians of Koilos
+
+Pack 1 pick 10:
+    Befuddle
+    Dark Bargain
+    Lich's Mastery
+    Corrosive Ooze
+--> Guardians of Koilos
+    Swamp
+
+--: Forest
+
+--: Goblin Warchief
+
+--: Goblin Warchief
+
+Pack 1 pick 11:
+    Divination
+    Homarid Explorer
+--> Goblin Warchief
+    Gaea's Blessing
+    Forest
+
+--: Mountain
+
+--: Skirk Prospector
+
+--: Skirk Prospector
+
+Pack 1 pick 12:
+    Healing Grace
+    Relic Runner
+--> Skirk Prospector
+    Mountain
+
+--: Island
+
+--: Charge
+
+Pack 1 pick 13:
+--> Charge
+    Skirk Prospector
+    Island
+
+--: Island
+
+--: Seismic Shift
+
+Pack 1 pick 14:
+--> Seismic Shift
+    Island
+
+--: Swamp
+
+--: Swamp
+
+Pack 1 pick 15:
+--> Swamp
+
+--: Forest
+
+--: Clifftop Retreat
+
+--: Warcry Phoenix
+
+--: Warcry Phoenix
+
+------ DAR ------ 
+
+Pack 2 pick 1:
+    Adamant Will
+    Homarid Explorer
+    Syncopate
+    Tetsuko Umezawa, Fugitive
+    Unwind
+    Deathbloom Thallid
+    Final Parting
+    Thallid Omnivore
+    Bloodstone Goblin
+--> Warcry Phoenix
+    Baloth Gorger
+    Grow from the Ashes
+    Pierce the Sky
+    Clifftop Retreat
+    Forest
+
+--: Plains
+
+--: On Serra's Wings
+
+--: Serra Angel
+
+--: Shivan Fire
+
+--: Serra Angel
+
+--: Serra Angel
+
+Pack 2 pick 2:
+    Mesa Unicorn
+    On Serra's Wings
+--> Serra Angel
+    Homarid Explorer
+    Naban, Dean of Iteration
+    Unwind
+    Fungal Infection
+    Urgoros, the Empty One
+    Keldon Overseer
+    Keldon Warcaller
+    Shivan Fire
+    Skirk Prospector
+    Llanowar Scout
+    Plains
+
+--: Plains
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 2 pick 3:
+    Charge
+--> Pegasus Courser
+    Time of Ice
+    Unwind
+    Cabal Evangel
+    Soul Salvage
+    Keldon Overseer
+    Gift of Growth
+    Krosan Druid
+    Thorn Elemental
+    Guardians of Koilos
+    Short Sword
+    Plains
+
+--: Mountain
+
+--: Tiana, Ship's Caretaker
+
+--: Tiana, Ship's Caretaker
+
+Pack 2 pick 4:
+    Knight of New Benalia
+    Arcane Flight
+    Cabal Evangel
+    Orcish Vandal
+    Broken Bond
+    Krosan Druid
+    Untamed Kavu
+--> Tiana, Ship's Caretaker
+    Pardic Wanderer
+    Skittering Surveyor
+    Voltaic Servant
+    Mountain
+
+--: Swamp
+
+--: Knight of New Benalia
+
+--: Knight of New Benalia
+
+Pack 2 pick 5:
+--> Knight of New Benalia
+    Diligent Excavator
+    Relic Runner
+    Slinn Voda, the Rising Deep
+    Blessing of Belzenlok
+    Drudge Sentinel
+    Lingering Phantom
+    Adventurous Impulse
+    Llanowar Elves
+    Guardians of Koilos
+    Swamp
+
+--: Swamp
+
+--: Short Sword
+
+--: Invoke the Divine
+
+--: Short Sword
+
+--: Short Sword
+
+Pack 2 pick 6:
+    Invoke the Divine
+    Academy Drake
+    Academy Journeymage
+    Cabal Evangel
+    Drudge Sentinel
+    Seismic Shift
+    Primordial Wurm
+--> Short Sword
+    Memorial to War
+    Swamp
+
+--: Island
+
+--: Fiery Intervention
+
+--: Invoke the Divine
+
+--: Fiery Intervention
+
+--: Invoke the Divine
+
+--: Invoke the Divine
+
+Pack 2 pick 7:
+--> Invoke the Divine
+    Cold-Water Snapper
+    Tolarian Scholar
+    Fiery Intervention
+    Ancient Animus
+    Broken Bond
+    Grow from the Ashes
+    Damping Sphere
+    Island
+
+--: Plains
+
+--: Jousting Lance
+
+--: Jousting Lance
+
+Pack 2 pick 8:
+    Sage of Lat-Nam
+    Tolarian Scholar
+    Wizard's Retort
+    Whisper, Blood Liturgist
+    Seismic Shift
+    Llanowar Envoy
+--> Jousting Lance
+    Plains
+
+--: Forest
+
+--: Adamant Will
+
+Pack 2 pick 9:
+--> Adamant Will
+    Homarid Explorer
+    Unwind
+    Final Parting
+    Thallid Omnivore
+    Pierce the Sky
+    Forest
+
+--: Plains
+
+--: Keldon Warcaller
+
+--: Keldon Warcaller
+
+Pack 2 pick 10:
+    Homarid Explorer
+    Unwind
+--> Keldon Warcaller
+    Skirk Prospector
+    Llanowar Scout
+    Plains
+
+--: Plains
+
+--: Charge
+
+Pack 2 pick 11:
+--> Charge
+    Unwind
+    Soul Salvage
+    Guardians of Koilos
+    Plains
+
+--: Mountain
+
+--: Orcish Vandal
+
+--: Orcish Vandal
+
+--: Orcish Vandal
+
+Pack 2 pick 12:
+    Cabal Evangel
+--> Orcish Vandal
+    Broken Bond
+    Mountain
+
+--: Swamp
+
+--: Guardians of Koilos
+
+--: Diligent Excavator
+
+Pack 2 pick 13:
+--> Diligent Excavator
+    Guardians of Koilos
+    Swamp
+
+--: Swamp
+
+--: Seismic Shift
+
+Pack 2 pick 14:
+--> Seismic Shift
+    Swamp
+
+--: Island
+
+--: Island
+
+Pack 2 pick 15:
+--> Island
+
+--: Plains
+
+--: Icy Manipulator
+
+--: Icy Manipulator
+
+------ DAR ------ 
+
+Pack 3 pick 1:
+    On Serra's Wings
+    Pegasus Courser
+    Sergeant-at-Arms
+    Serra Disciple
+    Artificer's Assistant
+    Blink of an Eye
+    Deep Freeze
+    Caligo Skin-Witch
+    Fungal Infection
+    Josu Vess, Lich Knight
+    Keldon Raider
+    Valduk, Keeper of the Flame
+    Arbor Armament
+--> Icy Manipulator
+    Plains
+
+--: Mountain
+
+--: Keldon Raider
+
+--: Keldon Raider
+
+Pack 3 pick 2:
+    Knight of New Benalia
+    Tragic Poet
+    Syncopate
+    Tolarian Scholar
+    Caligo Skin-Witch
+    Chainer's Torment
+    Windgrace Acolyte
+    The Flame of Keld
+    Frenzied Rage
+--> Keldon Raider
+    Rampaging Cyclops
+    Ancient Animus
+    Howling Golem
+    Mountain
+
+--: Mountain
+
+--: The First Eruption
+
+--: Serra Disciple
+
+--: Serra Disciple
+
+Pack 3 pick 3:
+--> Serra Disciple
+    Sentinel of the Pearl Trident
+    Unwind
+    Cabal Evangel
+    Final Parting
+    Windgrace Acolyte
+    Fervent Strike
+    The First Eruption
+    Adventurous Impulse
+    Saproling Migration
+    Navigator's Compass
+    Sparring Construct
+    Mountain
+
+--: Island
+
+--: Sergeant-at-Arms
+
+--: Sergeant-at-Arms
+
+Pack 3 pick 4:
+--> Sergeant-at-Arms
+    Rescue
+    Deathbloom Thallid
+    Lingering Phantom
+    Torgaar, Famine Incarnate
+    Bloodstone Goblin
+    Seismic Shift
+    Arbor Armament
+    Primordial Wurm
+    Powerstone Shard
+    Memorial to Glory
+    Island
+
+--: Swamp
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 3 pick 5:
+--> Pegasus Courser
+    Sergeant-at-Arms
+    Befuddle
+    Slinn Voda, the Rising Deep
+    Cabal Paladin
+    Stronghold Confessor
+    Thallid Soothsayer
+    Keldon Raider
+    Kamahl's Druidic Vow
+    Krosan Druid
+    Swamp
+
+--: Forest
+
+--: Mesa Unicorn
+
+--: Mesa Unicorn
+
+Pack 3 pick 6:
+    D'Avenant Trapper
+    Invoke the Divine
+--> Mesa Unicorn
+    Cabal Evangel
+    Thallid Soothsayer
+    Fire Elemental
+    Gift of Growth
+    Krosan Druid
+    Shield of the Realm
+    Forest
+
+--: Swamp
+
+--: Gideon's Reproach
+
+--: Gideon's Reproach
+
+Pack 3 pick 7:
+--> Gideon's Reproach
+    The Antiquities War
+    Curator's Ward
+    Syncopate
+    Thallid Omnivore
+    Warlord's Fury
+    Arbor Armament
+    Navigator's Compass
+    Swamp
+
+--: Sergeant-at-Arms
+
+--: Sergeant-at-Arms
+
+--: Sergeant-at-Arms
+
+Pack 3 pick 8:
+--> Sergeant-at-Arms
+    Tragic Poet
+    Curator's Ward
+    Rescue
+    Slinn Voda, the Rising Deep
+    Rat Colony
+    Primordial Wurm
+    Short Sword
+
+--: Plains
+
+--: Keldon Raider
+
+--: Keldon Raider
+
+Pack 3 pick 9:
+    Sergeant-at-Arms
+    Artificer's Assistant
+    Blink of an Eye
+    Caligo Skin-Witch
+--> Keldon Raider
+    Arbor Armament
+    Plains
+
+--: Mountain
+
+--: Howling Golem
+
+--: Howling Golem
+
+Pack 3 pick 10:
+    Tragic Poet
+    Syncopate
+    Tolarian Scholar
+    Chainer's Torment
+--> Howling Golem
+    Mountain
+
+--: Mountain
+
+--: The First Eruption
+
+--: The First Eruption
+
+Pack 3 pick 11:
+    Unwind
+    Cabal Evangel
+    Final Parting
+--> The First Eruption
+    Mountain
+
+--: Island
+
+--: Primordial Wurm
+
+--: Rescue
+
+--: Seismic Shift
+
+Pack 3 pick 12:
+    Rescue
+--> Seismic Shift
+    Primordial Wurm
+    Island
+
+--: Swamp
+
+--: Slinn Voda, the Rising Deep
+
+Pack 3 pick 13:
+    Befuddle
+--> Slinn Voda, the Rising Deep
+    Swamp
+
+--: Forest
+
+--: Invoke the Divine
+
+Pack 3 pick 14:
+--> Invoke the Divine
+    Forest
+
+--: Swamp
+
+--: Swamp
+
+Pack 3 pick 15:
+--> Swamp
+

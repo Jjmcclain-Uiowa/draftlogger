@@ -1,0 +1,730 @@
+Event #: 3206
+Time:    4/30/2018 2:36:19 AM
+Players:
+    mocho5050
+    ShamanG
+    Fortinbras
+    Norwin
+    Sunara
+    fangl
+--> FREEROLLIN
+    dchetcuti
+
+--: Mountain
+
+--: Goblin Barrage
+
+--: Shivan Fire
+
+--: Goblin Barrage
+
+--: Goblin Barrage
+
+------ DAR ------ 
+
+Pack 1 pick 1:
+    Tragic Poet
+    Befuddle
+    Blink of an Eye
+    Divination
+    Relic Runner
+    Weight of Memory
+    Thallid Omnivore
+--> Goblin Barrage
+    Shivan Fire
+    Adventurous Impulse
+    Primordial Wurm
+    Raff Capashen, Ship's Mage
+    Guardians of Koilos
+    Hinterland Harbor
+    Mountain
+
+--: Forest
+
+--: Time of Ice
+
+--: Time of Ice
+
+Pack 1 pick 2:
+    Benalish Honor Guard
+    Excavation Elephant
+    Knight of New Benalia
+    Mesa Unicorn
+    Cloudreader Sphinx
+    Homarid Explorer
+--> Time of Ice
+    Stronghold Confessor
+    Thallid Soothsayer
+    Fiery Intervention
+    Orcish Vandal
+    Adventurous Impulse
+    Saproling Migration
+    Forest
+
+--: Mountain
+
+--: Cast Down
+
+--: Cast Down
+
+Pack 1 pick 3:
+    Pegasus Courser
+    Artificer's Assistant
+    Karn's Temporal Sundering
+    Caligo Skin-Witch
+--> Cast Down
+    Dark Bargain
+    Bloodstone Goblin
+    Keldon Raider
+    Ancient Animus
+    Wild Onslaught
+    Navigator's Compass
+    Voltaic Servant
+    Mountain
+
+--: Island
+
+--: Goblin Warchief
+
+--: Knight of Malice
+
+--: Knight of Malice
+
+Pack 1 pick 4:
+    Dub
+    Befuddle
+    Rescue
+    Tolarian Scholar
+    Demonic Vigor
+--> Knight of Malice
+    Goblin Warchief
+    Orcish Vandal
+    Arbor Armament
+    Jodah, Archmage Eternal
+    Voltaic Servant
+    Island
+
+--: Plains
+
+--: Academy Drake
+
+--: Academy Drake
+
+Pack 1 pick 5:
+    D'Avenant Trapper
+--> Academy Drake
+    Cold-Water Snapper
+    Unwind
+    Blessing of Belzenlok
+    Feral Abomination
+    Fiery Intervention
+    Fire Elemental
+    Hallar, the Firefletcher
+    Howling Golem
+    Plains
+
+--: Forest
+
+--: Evra, Halcyon Witness
+
+--: Evra, Halcyon Witness
+
+--: Fungal Infection
+
+--: Fungal Infection
+
+Pack 1 pick 6:
+    Adamant Will
+    Benalish Honor Guard
+    Dub
+    Evra, Halcyon Witness
+    Tolarian Scholar
+--> Fungal Infection
+    Skirk Prospector
+    Llanowar Envoy
+    Primordial Wurm
+    Forest
+
+--: Mountain
+
+--: Academy Journeymage
+
+--: Academy Journeymage
+
+Pack 1 pick 7:
+    Dub
+--> Academy Journeymage
+    Rat Colony
+    Frenzied Rage
+    Radiating Lightning
+    Gaea's Protector
+    Primordial Wurm
+    Garna, the Bloodflame
+    Mountain
+
+--: Island
+
+--: Academy Drake
+
+--: Academy Drake
+
+Pack 1 pick 8:
+--> Academy Drake
+    Slinn Voda, the Rising Deep
+    Frenzied Rage
+    Aesthir Glider
+    Guardians of Koilos
+    Pardic Wanderer
+    Zhalfirin Void
+    Island
+
+--: Mountain
+
+--: Weight of Memory
+
+--: Divination
+
+--: Weight of Memory
+
+--: Weight of Memory
+
+Pack 1 pick 9:
+    Tragic Poet
+    Befuddle
+    Divination
+    Relic Runner
+--> Weight of Memory
+    Guardians of Koilos
+    Mountain
+
+--: Forest
+
+--: Fiery Intervention
+
+Pack 1 pick 10:
+    Excavation Elephant
+    Knight of New Benalia
+    Homarid Explorer
+--> Fiery Intervention
+    Orcish Vandal
+    Forest
+
+--: Mountain
+
+--: Dark Bargain
+
+--: Dark Bargain
+
+Pack 1 pick 11:
+    Artificer's Assistant
+--> Dark Bargain
+    Keldon Raider
+    Navigator's Compass
+    Mountain
+
+--: Befuddle
+
+--: Befuddle
+
+--: Befuddle
+
+Pack 1 pick 12:
+--> Befuddle
+    Rescue
+    Tolarian Scholar
+    Orcish Vandal
+
+--: Plains
+
+--: Cold-Water Snapper
+
+Pack 1 pick 13:
+--> Cold-Water Snapper
+    Fire Elemental
+    Plains
+
+--: Forest
+
+--: Tolarian Scholar
+
+Pack 1 pick 14:
+--> Tolarian Scholar
+    Forest
+
+--: Mountain
+
+Pack 1 pick 15:
+--> Mountain
+
+--: Island
+
+--: Vicious Offering
+
+--: Vicious Offering
+
+------ DAR ------ 
+
+Pack 2 pick 1:
+    Benalish Honor Guard
+    Urza's Ruinous Blast
+    Syncopate
+    Deathbloom Thallid
+    Drudge Sentinel
+    Soul Salvage
+--> Vicious Offering
+    Frenzied Rage
+    Run Amok
+    Broken Bond
+    Llanowar Envoy
+    Garna, the Bloodflame
+    Howling Golem
+    Memorial to Genius
+    Island
+
+--: Island
+
+--: Cast Down
+
+--: Cast Down
+
+Pack 2 pick 2:
+    D'Avenant Trapper
+    Healing Grace
+    Serra Disciple
+    Academy Drake
+    Cold-Water Snapper
+--> Cast Down
+    Deathbloom Thallid
+    Keldon Overseer
+    Broken Bond
+    Pierce the Sky
+    Adeliz, the Cinder Wind
+    Navigator's Compass
+    Hinterland Harbor
+    Island
+
+--: Island
+
+--: Deathbloom Thallid
+
+--: Deathbloom Thallid
+
+Pack 2 pick 3:
+    Adamant Will
+    Baird, Steward of Argive
+    Dauntless Bodyguard
+    Sergeant-at-Arms
+--> Deathbloom Thallid
+    Orcish Vandal
+    Rampaging Cyclops
+    Run Amok
+    Two-Headed Giant
+    Warlord's Fury
+    Gift of Growth
+    Powerstone Shard
+    Island
+
+--: Swamp
+
+--: Arcane Flight
+
+--: Arcane Flight
+
+Pack 2 pick 4:
+    Call the Cavalry
+--> Arcane Flight
+    Syncopate
+    Drudge Sentinel
+    Rat Colony
+    Seismic Shift
+    Warlord's Fury
+    Saproling Migration
+    Pardic Wanderer
+    Shield of the Realm
+    Memorial to Genius
+    Swamp
+
+--: Plains
+
+--: Memorial to Genius
+
+--: Memorial to Genius
+
+Pack 2 pick 5:
+    Charge
+    Opt
+    Relic Runner
+    Drudge Sentinel
+    Firefist Adept
+    Keldon Overseer
+    Krosan Druid
+    Pierce the Sky
+    Cabal Stronghold
+--> Memorial to Genius
+    Plains
+
+--: Forest
+
+--: Urgoros, the Empty One
+
+--: Urgoros, the Empty One
+
+Pack 2 pick 6:
+    Arcane Flight
+    Tolarian Scholar
+    Rat Colony
+--> Urgoros, the Empty One
+    Champion of the Flame
+    Seismic Shift
+    Llanowar Envoy
+    Bloodtallow Candle
+    Sulfur Falls
+    Forest
+
+--: Forest
+
+--: Windgrace Acolyte
+
+--: Windgrace Acolyte
+
+Pack 2 pick 7:
+    Fall of the Thran
+    Relic Runner
+    Rescue
+--> Windgrace Acolyte
+    Ghitu Chronicler
+    Ghitu Journeymage
+    Shivan Fire
+    Skirk Prospector
+    Forest
+
+--: Swamp
+
+--: Vodalian Arcanist
+
+Pack 2 pick 8:
+--> Vodalian Arcanist
+    Keldon Warcaller
+    Skirk Prospector
+    Gift of Growth
+    Damping Sphere
+    Howling Golem
+    Voltaic Servant
+    Swamp
+
+--: Island
+
+--: Soul Salvage
+
+--: Soul Salvage
+
+Pack 2 pick 9:
+    Drudge Sentinel
+--> Soul Salvage
+    Frenzied Rage
+    Run Amok
+    Howling Golem
+    Memorial to Genius
+    Island
+
+--: Island
+
+--: Cold-Water Snapper
+
+Pack 2 pick 10:
+    Healing Grace
+--> Cold-Water Snapper
+    Pierce the Sky
+    Adeliz, the Cinder Wind
+    Navigator's Compass
+    Island
+
+--: Island
+
+--: Run Amok
+
+--: Run Amok
+
+Pack 2 pick 11:
+    Orcish Vandal
+    Rampaging Cyclops
+--> Run Amok
+    Warlord's Fury
+    Island
+
+--: Swamp
+
+--: Drudge Sentinel
+
+Pack 2 pick 12:
+--> Drudge Sentinel
+    Warlord's Fury
+    Shield of the Realm
+    Swamp
+
+--: Plains
+
+--: Relic Runner
+
+--: Relic Runner
+
+Pack 2 pick 13:
+--> Relic Runner
+    Firefist Adept
+    Plains
+
+--: Forest
+
+--: Seismic Shift
+
+Pack 2 pick 14:
+--> Seismic Shift
+    Forest
+
+--: Forest
+
+--: Forest
+
+Pack 2 pick 15:
+--> Forest
+
+--: Plains
+
+--: Time of Ice
+
+--: Time of Ice
+
+------ DAR ------ 
+
+Pack 3 pick 1:
+    Blessed Light
+    Arcane Flight
+    Deep Freeze
+    Deep Freeze
+    Opt
+    Relic Runner
+--> Time of Ice
+    Soul Salvage
+    Whisper, Blood Liturgist
+    Run Amok
+    Skizzik
+    Primordial Wurm
+    Guardians of Koilos
+    Woodland Cemetery
+    Plains
+
+--: Island
+
+--: Wizard's Retort
+
+--: Arcane Flight
+
+--: Wizard's Retort
+
+--: Wizard's Retort
+
+Pack 3 pick 2:
+    Benalish Honor Guard
+    Call the Cavalry
+    Charge
+    Arcane Flight
+    Artificer's Assistant
+    Precognition Field
+--> Wizard's Retort
+    Windgrace Acolyte
+    Yargle, Glutton of Urborg
+    The Flame of Keld
+    Rampaging Cyclops
+    Mammoth Spider
+    Pardic Wanderer
+    Island
+
+--: Mountain
+
+--: Thallid Soothsayer
+
+--: Academy Drake
+
+--: Academy Drake
+
+Pack 3 pick 3:
+    D'Avenant Trapper
+    Gideon's Reproach
+    Tragic Poet
+--> Academy Drake
+    Feral Abomination
+    Thallid Soothsayer
+    Fiery Intervention
+    Radiating Lightning
+    Corrosive Ooze
+    Shanna, Sisay's Legacy
+    Short Sword
+    Memorial to Unity
+    Mountain
+
+--: Forest
+
+--: Tetsuko Umezawa, Fugitive
+
+--: Tetsuko Umezawa, Fugitive
+
+Pack 3 pick 4:
+    Serra Disciple
+--> Tetsuko Umezawa, Fugitive
+    Time of Ice
+    Unwind
+    Cabal Paladin
+    Demonic Vigor
+    Fervent Strike
+    Keldon Raider
+    Adventurous Impulse
+    Llanowar Scout
+    Aesthir Glider
+    Forest
+
+--: Forest
+
+--: Aesthir Glider
+
+--: Aesthir Glider
+
+Pack 3 pick 5:
+    D'Avenant Trapper
+    Gideon's Reproach
+    Diligent Excavator
+    Divination
+    Unwind
+    Fervent Strike
+    Valduk, Keeper of the Flame
+    Grow from the Ashes
+    Llanowar Scout
+--> Aesthir Glider
+    Forest
+
+--: Swamp
+
+--: Academy Journeymage
+
+Pack 3 pick 6:
+--> Academy Journeymage
+    Sentinel of the Pearl Trident
+    Demonic Vigor
+    Rat Colony
+    Ghitu Lavarunner
+    Adventurous Impulse
+    Ancient Animus
+    Powerstone Shard
+    Memorial to Unity
+    Swamp
+
+--: Swamp
+
+--: Blink of an Eye
+
+Pack 3 pick 7:
+    Call the Cavalry
+    Excavation Elephant
+--> Blink of an Eye
+    Rescue
+    Blessing of Belzenlok
+    Final Parting
+    Radiating Lightning
+    Ancient Animus
+    Swamp
+
+--: Mountain
+
+--: Deep Freeze
+
+--: Deep Freeze
+
+--: Deep Freeze
+
+Pack 3 pick 8:
+    D'Avenant Trapper
+    Sergeant-at-Arms
+--> Deep Freeze
+    Feral Abomination
+    Keldon Raider
+    Adventurous Impulse
+    Tiana, Ship's Caretaker
+    Mountain
+
+--: Plains
+
+--: Arcane Flight
+
+--: Arcane Flight
+
+Pack 3 pick 9:
+--> Arcane Flight
+    Deep Freeze
+    Relic Runner
+    Soul Salvage
+    Run Amok
+    Skizzik
+    Plains
+
+--: Island
+
+--: Precognition Field
+
+--: Precognition Field
+
+Pack 3 pick 10:
+    Charge
+    Arcane Flight
+--> Precognition Field
+    The Flame of Keld
+    Rampaging Cyclops
+    Island
+
+--: Mountain
+
+--: Feral Abomination
+
+Pack 3 pick 11:
+    Tragic Poet
+--> Feral Abomination
+    Radiating Lightning
+    Memorial to Unity
+    Mountain
+
+--: Forest
+
+--: Cabal Paladin
+
+--: Cabal Paladin
+
+Pack 3 pick 12:
+    Serra Disciple
+--> Cabal Paladin
+    Fervent Strike
+    Forest
+
+--: Forest
+
+--: Diligent Excavator
+
+--: Diligent Excavator
+
+Pack 3 pick 13:
+--> Diligent Excavator
+    Unwind
+    Forest
+
+--: Swamp
+
+--: Rat Colony
+
+Pack 3 pick 14:
+--> Rat Colony
+    Swamp
+
+--: Swamp
+
+--: Swamp
+
+Pack 3 pick 15:
+--> Swamp
+

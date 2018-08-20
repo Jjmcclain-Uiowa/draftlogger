@@ -1,0 +1,157 @@
+Pegasus Courser: 71
+Keldon Raider: 51
+Swamp: 47
+Serra Disciple: 46
+Seismic Shift: 44
+Ancient Animus: 43
+Short Sword: 38
+Adamant Will: 36
+Gaea's Protector: 33
+Invoke the Divine: 32
+Dub: 31
+Sergeant-at-Arms: 31
+Keldon Warcaller: 30
+Gideon's Reproach: 29
+Charge: 29
+Krosan Druid: 28
+Blessed Light: 28
+Pardic Wanderer: 28
+Tiana, Ship's Caretaker: 27
+Skirk Prospector: 27
+Mesa Unicorn: 25
+Homarid Explorer: 25
+Broken Bond: 23
+Cold-Water Snapper: 23
+Llanowar Scout: 22
+Guardians of Koilos: 22
+Baloth Gorger: 22
+Keldon Overseer: 21
+Wild Onslaught: 20
+D'Avenant Trapper: 20
+Mountain: 20
+Forest: 20
+Ghitu Lavarunner: 20
+Academy Journeymage: 19
+Aven Sentry: 19
+Knight of New Benalia: 19
+Voltaic Servant: 18
+Feral Abomination: 18
+Fervent Strike: 18
+Shivan Fire: 18
+Orcish Vandal: 17
+Arcane Flight: 17
+Cloudreader Sphinx: 17
+Hallar, the Firefletcher: 16
+Primordial Wurm: 16
+Benalish Honor Guard: 16
+Plains: 16
+Jousting Lance: 16
+Time of Ice: 16
+Relic Runner: 16
+Valduk, Keeper of the Flame: 15
+Healing Grace: 15
+Llanowar Envoy: 15
+Untamed Kavu: 15
+Arbor Armament: 15
+Windgrace Acolyte: 14
+Baird, Steward of Argive: 14
+Navigator's Compass: 14
+Tolarian Scholar: 14
+Sylvan Awakening: 14
+Firefist Adept: 13
+Island: 13
+Nature's Spiral: 12
+On Serra's Wings: 12
+Pierce the Sky: 11
+Warcry Phoenix: 10
+Howling Golem: 10
+Song of Freyalise: 10
+Tatyova, Benthic Druid: 10
+Saproling Migration: 10
+Urza's Tome: 10
+Kwende, Pride of Femeref: 10
+Wizard's Lightning: 9
+Triumph of Gerrard: 9
+Gift of Growth: 9
+Helm of the Host: 9
+Skittering Surveyor: 9
+The Flame of Keld: 9
+Sparring Construct: 9
+Skizzik: 9
+Memorial to War: 9
+Diligent Excavator: 9
+Vicious Offering: 9
+Academy Drake: 9
+Befuddle: 9
+Siege-Gang Commander: 8
+Bloodstone Goblin: 8
+Goblin Warchief: 8
+Serra Angel: 8
+Icy Manipulator: 8
+The First Eruption: 8
+Slinn Voda, the Rising Deep: 8
+Eviscerate: 8
+Deathbloom Thallid: 8
+Danitha Capashen, Paragon: 7
+Bloodtallow Candle: 7
+Steel Leaf Champion: 7
+Excavation Elephant: 7
+Goblin Barrage: 7
+Run Amok: 7
+Rona, Disciple of Gix: 7
+Call the Cavalry: 7
+Gaea's Blessing: 7
+Champion of the Flame: 6
+Demonic Vigor: 6
+Seal Away: 6
+The Antiquities War: 6
+Tragic Poet: 6
+Frenzied Rage: 6
+Ghitu Journeymage: 6
+Adeliz, the Cinder Wind: 6
+Shield of the Realm: 6
+Mammoth Spider: 6
+Hinterland Harbor: 6
+Shalai, Voice of Plenty: 5
+Knight of Grace: 5
+Zahid, Djinn of the Lamp: 5
+Memorial to Unity: 5
+Grunn, the Lonely King: 5
+Evra, Halcyon Witness: 5
+Corrosive Ooze: 5
+Lingering Phantom: 5
+Blessing of Belzenlok: 5
+Vodalian Arcanist: 5
+Blink of an Eye: 5
+Fiery Intervention: 5
+Damping Sphere: 4
+Warlord's Fury: 4
+Unwind: 4
+Tetsuko Umezawa, Fugitive: 4
+Slimefoot, the Stowaway: 3
+Amaranthine Wall: 3
+Llanowar Elves: 3
+Memorial to Folly: 3
+Adventurous Impulse: 3
+Memorial to Genius: 3
+Rat Colony: 3
+Drudge Sentinel: 3
+Divest: 2
+Primevals' Glorious Rebirth: 2
+Final Parting: 2
+Demonlord Belzenlok: 2
+Caligo Skin-Witch: 2
+Mox Amber: 2
+Jhoira's Familiar: 2
+Cast Down: 2
+Knight of Malice: 1
+Fungal Infection: 1
+Weight of Memory: 1
+Dark Bargain: 1
+Urgoros, the Empty One: 1
+Soul Salvage: 1
+Wizard's Retort: 1
+Aesthir Glider: 1
+Deep Freeze: 1
+Precognition Field: 1
+Cabal Paladin: 1

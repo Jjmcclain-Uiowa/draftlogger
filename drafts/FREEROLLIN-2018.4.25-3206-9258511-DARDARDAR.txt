@@ -1,0 +1,764 @@
+Event #: 3206
+Time:    4/25/2018 2:41:34 AM
+Players:
+    Ownforlife
+    light1024
+    exceptforcarlos
+    Mintbear
+--> FREEROLLIN
+    pankoescolar
+    kimchi12341234
+    duckmammal
+
+--: Mountain
+
+--: Time of Ice
+
+--: Time of Ice
+
+--: Time of Ice
+
+------ DAR ------ 
+
+Pack 1 pick 1:
+    Blessed Light
+    Knight of New Benalia
+    Academy Drake
+    Academy Journeymage
+    Tempest Djinn
+    Tetsuko Umezawa, Fugitive
+--> Time of Ice
+    Vodalian Arcanist
+    Cabal Paladin
+    Feral Abomination
+    Radiating Lightning
+    Llanowar Elves
+    Short Sword
+    Zhalfirin Void
+    Mountain
+
+--: Forest
+
+--: Baloth Gorger
+
+--: Baloth Gorger
+
+Pack 1 pick 2:
+    Dub
+    Excavation Elephant
+    Cold-Water Snapper
+    Sage of Lat-Nam
+    Syncopate
+    Drudge Sentinel
+    Keldon Warcaller
+    Warlord's Fury
+--> Baloth Gorger
+    Primevals' Glorious Rebirth
+    Guardians of Koilos
+    Howling Golem
+    Powerstone Shard
+    Forest
+
+--: Mountain
+
+--: Yavimaya Sapherd
+
+--: Skizzik
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+Pack 1 pick 3:
+--> Pegasus Courser
+    Deep Freeze
+    Relic Runner
+    Demonic Vigor
+    Whisper, Blood Liturgist
+    Keldon Overseer
+    Radiating Lightning
+    Skizzik
+    Warlord's Fury
+    Yavimaya Sapherd
+    Jousting Lance
+    Short Sword
+    Mountain
+
+--: Swamp
+
+--: Rampaging Cyclops
+
+--: Wild Onslaught
+
+--: Wild Onslaught
+
+Pack 1 pick 4:
+    Invoke the Divine
+    Divination
+    Dark Bargain
+    Final Parting
+    Rat Colony
+    Windgrace Acolyte
+    Fire Elemental
+    Radiating Lightning
+    Rampaging Cyclops
+    Gaea's Protector
+--> Wild Onslaught
+    Swamp
+
+--: Mountain
+
+--: Firefist Adept
+
+--: D'Avenant Trapper
+
+--: D'Avenant Trapper
+
+Pack 1 pick 5:
+    Benalish Honor Guard
+--> D'Avenant Trapper
+    Divest
+    Kazarov, Sengir Pureblood
+    Windgrace Acolyte
+    Bloodstone Goblin
+    Firefist Adept
+    Gaea's Blessing
+    Mammoth Spider
+    Primordial Wurm
+    Mountain
+
+--: Island
+
+--: Memorial to Unity
+
+--: Nature's Spiral
+
+--: Nature's Spiral
+
+Pack 1 pick 6:
+    Homarid Explorer
+    Precognition Field
+    Unwind
+    Bloodstone Goblin
+    Gaea's Protector
+--> Nature's Spiral
+    Guardians of Koilos
+    Voltaic Servant
+    Memorial to Unity
+    Island
+
+--: Swamp
+
+--: Benalish Honor Guard
+
+--: Benalish Honor Guard
+
+Pack 1 pick 7:
+--> Benalish Honor Guard
+    Charge
+    Relic Runner
+    Cabal Paladin
+    The First Eruption
+    Frenzied Rage
+    Keldon Warcaller
+    Mammoth Spider
+    Swamp
+
+--: Mountain
+
+--: Excavation Elephant
+
+--: Aesthir Glider
+
+--: Ancient Animus
+
+--: Ancient Animus
+
+Pack 1 pick 8:
+    Excavation Elephant
+    Homarid Explorer
+    Unwind
+    Fervent Strike
+    Rampaging Cyclops
+--> Ancient Animus
+    Aesthir Glider
+    Mountain
+
+--: Mountain
+
+--: Short Sword
+
+Pack 1 pick 9:
+    Vodalian Arcanist
+    Cabal Paladin
+    Feral Abomination
+    Radiating Lightning
+--> Short Sword
+    Zhalfirin Void
+    Mountain
+
+--: Forest
+
+--: Keldon Warcaller
+
+--: Keldon Warcaller
+
+Pack 1 pick 10:
+    Sage of Lat-Nam
+    Drudge Sentinel
+--> Keldon Warcaller
+    Warlord's Fury
+    Powerstone Shard
+    Forest
+
+--: Mountain
+
+--: Short Sword
+
+--: Short Sword
+
+Pack 1 pick 11:
+    Keldon Overseer
+    Radiating Lightning
+    Warlord's Fury
+--> Short Sword
+    Mountain
+
+--: Swamp
+
+--: Gaea's Protector
+
+--: Gaea's Protector
+
+Pack 1 pick 12:
+    Fire Elemental
+    Rampaging Cyclops
+--> Gaea's Protector
+    Swamp
+
+--: Mountain
+
+--: Primordial Wurm
+
+--: Primordial Wurm
+
+Pack 1 pick 13:
+    Gaea's Blessing
+--> Primordial Wurm
+    Mountain
+
+--: Island
+
+--: Gaea's Protector
+
+Pack 1 pick 14:
+--> Gaea's Protector
+    Island
+
+--: Keldon Warcaller
+
+--: Keldon Warcaller
+
+Pack 1 pick 15:
+--> Keldon Warcaller
+
+--: Island
+
+--: Sanctum Spirit
+
+--: Pegasus Courser
+
+--: Pegasus Courser
+
+------ DAR ------ 
+
+Pack 2 pick 1:
+--> Pegasus Courser
+    Sanctum Spirit
+    Sergeant-at-Arms
+    Cold-Water Snapper
+    Eviscerate
+    Feral Abomination
+    Windgrace Acolyte
+    Run Amok
+    Elfhame Druid
+    Grow from the Ashes
+    Grand Warlord Radha
+    Powerstone Shard
+    Sorcerer's Wand
+    Sparring Construct
+    Island
+
+--: Mountain
+
+--: Danitha Capashen, Paragon
+
+--: Danitha Capashen, Paragon
+
+--: Danitha Capashen, Paragon
+
+--: Danitha Capashen, Paragon
+
+Pack 2 pick 2:
+    D'Avenant Trapper
+--> Danitha Capashen, Paragon
+    Sanctum Spirit
+    Arcane Flight
+    Karn's Temporal Sundering
+    Demonic Vigor
+    Eviscerate
+    Windgrace Acolyte
+    Frenzied Rage
+    Krosan Druid
+    Llanowar Scout
+    Yavimaya Sapherd
+    Memorial to Glory
+    Mountain
+
+--: Plains
+
+--: Song of Freyalise
+
+--: Goblin Chainwhirler
+
+--: Song of Freyalise
+
+--: Song of Freyalise
+
+Pack 2 pick 3:
+    Syncopate
+    Cabal Paladin
+    Feral Abomination
+    Soul Salvage
+    Frenzied Rage
+    Goblin Chainwhirler
+    Keldon Overseer
+    Mammoth Spider
+--> Song of Freyalise
+    Adeliz, the Cinder Wind
+    Powerstone Shard
+    Skittering Surveyor
+    Plains
+
+--: Mountain
+
+--: Daring Archaeologist
+
+--: Ancient Animus
+
+--: Ancient Animus
+
+Pack 2 pick 4:
+    D'Avenant Trapper
+    Daring Archaeologist
+    Sergeant-at-Arms
+    Befuddle
+    Relic Runner
+    Vodalian Arcanist
+    Settle the Score
+    Yargle, Glutton of Urborg
+    Rampaging Cyclops
+--> Ancient Animus
+    Powerstone Shard
+    Mountain
+
+--: Swamp
+
+--: Serra Disciple
+
+--: Serra Disciple
+
+Pack 2 pick 5:
+--> Serra Disciple
+    Artificer's Assistant
+    Vicious Offering
+    Fervent Strike
+    Ghitu Journeymage
+    Keldon Warcaller
+    Corrosive Ooze
+    Bloodtallow Candle
+    Howling Golem
+    Navigator's Compass
+    Swamp
+
+--: Island
+
+--: Tatyova, Benthic Druid
+
+--: Tatyova, Benthic Druid
+
+Pack 2 pick 6:
+    Charge
+    Rescue
+    Caligo Skin-Witch
+    Drudge Sentinel
+    The Flame of Keld
+    Krosan Druid
+    Primordial Wurm
+--> Tatyova, Benthic Druid
+    Plains
+    Island
+
+--: Mountain
+
+--: Knight of New Benalia
+
+--: Krosan Druid
+
+--: Krosan Druid
+
+Pack 2 pick 7:
+    Knight of New Benalia
+    Homarid Explorer
+    Caligo Skin-Witch
+    Dark Bargain
+    Lingering Phantom
+    Rampaging Cyclops
+--> Krosan Druid
+    Primordial Wurm
+    Mountain
+
+--: Plains
+
+--: Adamant Will
+
+--: Adamant Will
+
+Pack 2 pick 8:
+--> Adamant Will
+    Blink of an Eye
+    Stronghold Confessor
+    Thallid Omnivore
+    Firefist Adept
+    Adventurous Impulse
+    Llanowar Envoy
+    Plains
+
+--: Island
+
+--: Sergeant-at-Arms
+
+--: Sergeant-at-Arms
+
+Pack 2 pick 9:
+--> Sergeant-at-Arms
+    Cold-Water Snapper
+    Feral Abomination
+    Run Amok
+    Grow from the Ashes
+    Powerstone Shard
+    Island
+
+--: Mountain
+
+--: Krosan Druid
+
+--: Llanowar Scout
+
+--: Llanowar Scout
+
+Pack 2 pick 10:
+    Arcane Flight
+    Windgrace Acolyte
+    Frenzied Rage
+    Krosan Druid
+--> Llanowar Scout
+    Mountain
+
+--: Plains
+
+--: Feral Abomination
+
+--: Feral Abomination
+
+Pack 2 pick 11:
+    Cabal Paladin
+--> Feral Abomination
+    Soul Salvage
+    Powerstone Shard
+    Plains
+
+--: Mountain
+
+--: Relic Runner
+
+Pack 2 pick 12:
+    Befuddle
+--> Relic Runner
+    Powerstone Shard
+    Mountain
+
+--: Swamp
+
+--: Bloodtallow Candle
+
+--: Bloodtallow Candle
+
+Pack 2 pick 13:
+    Fervent Strike
+--> Bloodtallow Candle
+    Swamp
+
+--: Plains
+
+--: Charge
+
+--: Charge
+
+Pack 2 pick 14:
+--> Charge
+    Plains
+
+--: Mountain
+
+--: Mountain
+
+Pack 2 pick 15:
+--> Mountain
+
+--: Island
+
+--: Call the Cavalry
+
+--: Baloth Gorger
+
+--: Baloth Gorger
+
+------ DAR ------ 
+
+Pack 3 pick 1:
+    Adamant Will
+    Call the Cavalry
+    Dub
+    Homarid Explorer
+    Precognition Field
+    Sage of Lat-Nam
+    Blessing of Belzenlok
+    Goblin Barrage
+    Seismic Shift
+    Shivan Fire
+--> Baloth Gorger
+    Saproling Migration
+    Adeliz, the Cinder Wind
+    Pardic Wanderer
+    Island
+
+--: Swamp
+
+--: Saproling Migration
+
+--: Saproling Migration
+
+Pack 3 pick 2:
+    Excavation Elephant
+    Cold-Water Snapper
+    Diligent Excavator
+    Syncopate
+    Drudge Sentinel
+    Thallid Soothsayer
+    Radiating Lightning
+    Rampaging Cyclops
+    Shivan Fire
+    Skirk Prospector
+--> Saproling Migration
+    Navigator's Compass
+    Thran Temporal Gateway
+    Swamp
+
+--: Island
+
+--: Steel Leaf Champion
+
+--: Steel Leaf Champion
+
+Pack 3 pick 3:
+    Aven Sentry
+    Befuddle
+    Weight of Memory
+    Cabal Evangel
+    Dark Bargain
+    Ghitu Journeymage
+    Rampaging Cyclops
+    Adventurous Impulse
+    Pierce the Sky
+--> Steel Leaf Champion
+    Shanna, Sisay's Legacy
+    Urza's Tome
+    Island
+
+--: Mountain
+
+--: Wild Onslaught
+
+--: Short Sword
+
+--: Wild Onslaught
+
+--: Ancient Animus
+
+--: Ancient Animus
+
+Pack 3 pick 4:
+    Dub
+    Wizard's Retort
+    Stronghold Confessor
+    Fervent Strike
+    Keldon Warcaller
+    Run Amok
+    Valduk, Keeper of the Flame
+--> Ancient Animus
+    Llanowar Envoy
+    Wild Onslaught
+    Short Sword
+    Mountain
+
+--: Plains
+
+--: Sylvan Awakening
+
+--: Sylvan Awakening
+
+Pack 3 pick 5:
+    Aven Sentry
+    Gideon's Reproach
+    Arcane Flight
+    Wizard's Retort
+    Fiery Intervention
+    Ghitu Chronicler
+    Primordial Wurm
+--> Sylvan Awakening
+    Bloodtallow Candle
+    Short Sword
+    Plains
+
+--: Swamp
+
+--: Corrosive Ooze
+
+--: D'Avenant Trapper
+
+--: D'Avenant Trapper
+
+Pack 3 pick 6:
+--> D'Avenant Trapper
+    Cold-Water Snapper
+    Tolarian Scholar
+    Deathbloom Thallid
+    Soul Salvage
+    Skirk Prospector
+    Ancient Animus
+    Corrosive Ooze
+    Navigator's Compass
+    Swamp
+
+--: Forest
+
+--: Invoke the Divine
+
+--: Invoke the Divine
+
+Pack 3 pick 7:
+    Excavation Elephant
+--> Invoke the Divine
+    Unwind
+    Lich's Mastery
+    Radiating Lightning
+    Adventurous Impulse
+    Garna, the Bloodflame
+    Sparring Construct
+    Forest
+
+--: Plains
+
+--: Hallar, the Firefletcher
+
+--: Hallar, the Firefletcher
+
+Pack 3 pick 8:
+    Relic Runner
+    Drudge Sentinel
+    Ghitu Lavarunner
+    Run Amok
+    Seismic Shift
+    Gaea's Protector
+--> Hallar, the Firefletcher
+    Plains
+
+--: Island
+
+--: Adamant Will
+
+--: Dub
+
+--: Dub
+
+Pack 3 pick 9:
+    Adamant Will
+--> Dub
+    Homarid Explorer
+    Precognition Field
+    Sage of Lat-Nam
+    Seismic Shift
+    Island
+
+--: Swamp
+
+--: Excavation Elephant
+
+--: Excavation Elephant
+
+Pack 3 pick 10:
+--> Excavation Elephant
+    Cold-Water Snapper
+    Diligent Excavator
+    Radiating Lightning
+    Navigator's Compass
+    Swamp
+
+--: Island
+
+--: Urza's Tome
+
+Pack 3 pick 11:
+    Befuddle
+    Cabal Evangel
+    Rampaging Cyclops
+--> Urza's Tome
+    Island
+
+--: Mountain
+
+--: Llanowar Envoy
+
+--: Llanowar Envoy
+
+Pack 3 pick 12:
+    Fervent Strike
+    Run Amok
+--> Llanowar Envoy
+    Mountain
+
+--: Plains
+
+--: Aven Sentry
+
+Pack 3 pick 13:
+--> Aven Sentry
+    Ghitu Chronicler
+    Plains
+
+--: Swamp
+
+--: Skirk Prospector
+
+Pack 3 pick 14:
+--> Skirk Prospector
+    Swamp
+
+--: Forest
+
+--: Forest
+
+Pack 3 pick 15:
+--> Forest
+
